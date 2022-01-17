@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="player_score">Player Score: %1$d</string>
+    <string name="enemy_score">Enemy Score: %1$d</string>
+</resources>
